@@ -1,4 +1,12 @@
 body {
 	background-color: hsl(0 0% 0%);
-	color: hsl(0 0% 100%);
+}
+
+.underneath {
+	background: url(../assets/darkest-hallway.jpg);
+	display: grid;
+}
+
+.card {
+	background-color: hsl(0 0% 100%);
 }
