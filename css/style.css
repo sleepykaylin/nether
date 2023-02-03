@@ -4,6 +4,9 @@ body {
 
 .underneath {
   background: url(../assets/darkest-hallway.jpg);
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
   display: grid;
 }
 
